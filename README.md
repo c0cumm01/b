@@ -1,2 +1,0 @@
-# b
-Repository for b
